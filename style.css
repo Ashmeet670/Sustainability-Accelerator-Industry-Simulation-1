@@ -1,0 +1,27 @@
+* {
+    text-decoration: none;
+
+}
+
+.dark1 {
+    background-color: #ffffff;
+}
+
+.dark2 {
+    background-color: #ebf0fe;
+}
+
+.dark3 {
+    background-color: #eafff1;
+
+}
+
+.btn {
+    transition: 0.4s;
+}
+
+
+.btn:hover {
+    scale: 1.05;
+    background-color: #f6edff;
+}
